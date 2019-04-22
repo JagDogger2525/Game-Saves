@@ -10,11 +10,7 @@ RPG Notice #1: Super Mario RPG just needs 2 things - 100 jumps & Koopa Climb (or
 RPG Notice #2: Super Mario RPG has each of the characters put the majority of the stats is what they go towards. Mario and Geno have had HP chosen 3 times, but was mainly for the Physical/Magic standings.
 
   Mario: Physical/Magic
-
   Peach: HP/Magic
-
   Bowser: Physical
-
   Mallow: HP/Magic/Physical
-
   Geno: Physical/Magic
