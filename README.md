@@ -1,5 +1,5 @@
 # Game-Saves
-Here are my own personal retro video game saves. I put a lot of time into many of these just so your RetroPie Gaming experience is maximized.
+Here are my own personal retro video game saves. I put a lot of time into many of these just so your RetroPie gaming experience is maximized.
 
 Please do not worry about the RPG's because I make sure that each RPG game save I have, and will, upload, will be the best and making sure that everyone is at level 99.
 
